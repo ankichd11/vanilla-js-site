@@ -1,0 +1,36 @@
+#grad1 {
+    background-image: linear-gradient(to bottom right, red,white, yellow);
+    /* Standard syntax (must be last) */
+}
+
+#grad2 {
+    background-image: linear-gradient(to bottom right, Darkmagenta,white, Hotpink);
+    /* Standard syntax (must be last) */
+}
+
+#grad3 {
+    background-image: linear-gradient(to bottom right,green,white, rgb(255, 255, 0));
+    /* Standard syntax (must be last) */
+}
+
+#grad4 {
+    background-image: linear-gradient(to bottom right, rgb(76, 0, 255),white, rgb(48, 214, 236));
+    /* Standard syntax (must be last) */
+}
+
+#grad5 {
+    background-image: linear-gradient(to bottom right, rgb(8, 9, 78),white, rgb(13, 131, 58));
+    /* Standard syntax (must be last) */
+}
+
+#grad6 {
+    background-image: linear-gradient(to bottom right, rgb(43, 176, 238),white, rgb(116, 125, 126));
+    /* Standard syntax (must be last) */
+}
+#wall{
+    background-image: url('./photos/01.jpg');
+    background-size: cover;
+    height:800px ;
+    background-repeat: no-repeat;
+}
+
